@@ -15,9 +15,9 @@ text_color_theme: default #eg: default | dark | forest | ocean | chocolate | ora
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Someone's blog
+title: Blog about coding and being cool
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+  Blog about coding and being cool
 
 nav_lists:
   - titles:
@@ -43,7 +43,8 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Someone
+  name: Cheng Zhou
+  email: zhouchengkho@gmail.com
   # email:  #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
