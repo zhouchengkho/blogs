@@ -6,7 +6,7 @@ categories: AWS
 ---
 Yo What's good:)
 
-I'm sure a lot of dev-ops people have to face the challenge of managing production|development servers. In the old fashion way, just buy two servers and we are done. Now using serverless(which is this toolkit for deploying and operating serverless architectures), it requires a little bit configuration.
+I'm sure a lot of dev-ops people have to face the challenge of managing production and development servers. In the old fashion way, just buy two servers and we are done. Now using serverless(which is this toolkit for deploying and operating serverless architectures), it requires a little bit configuration.
 
 Just to show you how I did it and make sure your current project isn't destroyed, let's get started with a new project.
 Before we start, if you don’t really know AWS, please get to know it before you play.
