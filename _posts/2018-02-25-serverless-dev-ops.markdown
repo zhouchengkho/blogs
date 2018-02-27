@@ -27,8 +27,9 @@ provider:
   region: us-east-1
   environment:
     NODE_ENV: ${self:provider.stage}
-  custom:
-    user_pool: ${file(./config.${self:provider.stage}.json):user_pool}
+
+custom:
+  user_pool: ${file(./config.${self:provider.stage}.json):user_pool}
 
 functions:
   test:
