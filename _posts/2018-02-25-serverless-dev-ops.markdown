@@ -4,8 +4,7 @@ title:  "Managing production/development env with serverless"
 date:   2018-02-25 15:53:24 -0500
 categories: AWS
 ---
-Yo What's good:)
-
+Hey guys!
 I'm sure a lot of dev-ops people have to face the challenge of managing production and development servers. In the old fashion way, just buy two servers and we are done. Now using serverless(which is this toolkit for deploying and operating serverless architectures), it requires a little bit configuration.
 
 Just to show you how I did it and make sure your current project isn't destroyed, let's get started with a new project.
